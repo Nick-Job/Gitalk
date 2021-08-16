@@ -1,0 +1,7 @@
+  gitalk: true
+  gitalk_clientID: '9f420628592c46d047bb'
+  gitalk_Secret: 'c77244cce6a00e0be287c748b574f4b6012a09ec'
+  gitalk_repo: ’nick-job.github.io'
+  gitalk_owner: 'nick-job'
+  gitalk_admin: 'nick-job'
+  distractionFreeMode: true
